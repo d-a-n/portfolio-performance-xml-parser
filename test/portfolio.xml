@@ -1,0 +1,1610 @@
+<client>
+  <version>46</version>
+  <baseCurrency>EUR</baseCurrency>
+  <securities>
+    <security>
+      <uuid>40089f48-4cce-4e2e-b541-827037706ec9</uuid>
+      <name>MSCI World UCITS ETF USD</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>IE00B4L5Y983</isin>
+      <tickerSymbol>EUNL.DE</tickerSymbol>
+      <wkn>A0RPWH</wkn>
+      <feed>YAHOO-ADJUSTEDCLOSE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>330256c1-b815-43cc-a8bd-4c1576ddb9b6</uuid>
+      <name>MSCI ACWI UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>IE00BGHQ0G80</isin>
+      <tickerSymbol>XMAW.DE</tickerSymbol>
+      <wkn>A1W8SB</wkn>
+      <feed>YAHOO-ADJUSTEDCLOSE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>68ce536f-797b-4104-a020-1ca9195454e8</uuid>
+      <name>APPLE INC.</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>US0378331005</isin>
+      <tickerSymbol>APC.DE</tickerSymbol>
+      <wkn>865985</wkn>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>752e83c3-0784-4dcd-b18a-79880724be6c</uuid>
+      <name>AMAZON.COM INC.</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>US0231351067</isin>
+      <tickerSymbol>AMZ.DE</tickerSymbol>
+      <wkn>906866</wkn>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>a08e121e-fe63-400a-b097-d13880a11e8a</uuid>
+      <name>BLACKROCK INC.</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>US09247X1019</isin>
+      <tickerSymbol>BLQA.DE</tickerSymbol>
+      <wkn>928193</wkn>
+      <feed>FINNHUB-CANDLE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>f7497098-f651-4b55-9a3d-bd7c7240bd9b</uuid>
+      <name>STOXX Global Select Dividend 100 UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>DE000A0F5UH1</isin>
+      <tickerSymbol>ISPA.DE</tickerSymbol>
+      <wkn>A0F5UH</wkn>
+      <feed>YAHOO-ADJUSTEDCLOSE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>f49b5ddf-3a85-4208-b711-67f75e2d53f5</uuid>
+      <name>FTSE All-World High Dividend Yield UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>IE00B8GKDB10</isin>
+      <tickerSymbol>VGWD.DE</tickerSymbol>
+      <wkn>A1T8FV</wkn>
+      <feed>YAHOO-ADJUSTEDCLOSE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>7cc22d77-808d-44e7-9ae7-3a4685753c03</uuid>
+      <name>STOXX Global Artificial Intelligence UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>LU1861132840</isin>
+      <tickerSymbol>GOAI.DE</tickerSymbol>
+      <wkn>A2JSC9</wkn>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>8d0ae1df-b77a-4661-a8d4-b5a58cbd43ad</uuid>
+      <name>MSCI Emerging Markets UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>IE00BTJRMP35</isin>
+      <tickerSymbol>XMME.DE</tickerSymbol>
+      <wkn>A12GVR</wkn>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>e6adfc6c-1174-4f84-a9e7-6f0c8c468b49</uuid>
+      <name>ALPHABET INC.</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>US02079K3059</isin>
+      <tickerSymbol>ABEA.DE</tickerSymbol>
+      <wkn>A14Y6F</wkn>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>67ccaac4-e6c1-4324-8a50-7e236c4d6a02</uuid>
+      <name>ALIBABA GROUP HOLDING LTD.</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>US01609W1027</isin>
+      <tickerSymbol>AHLA.DE</tickerSymbol>
+      <wkn>A117ME</wkn>
+      <feed>FINNHUB-CANDLE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>309e96bf-a078-40df-b0d6-5c94e9feb6ac</uuid>
+      <name>MSCI USA UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>LU0392495700</isin>
+      <tickerSymbol>X020.F</tickerSymbol>
+      <wkn>ETF120</wkn>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>ec6e48ae-1766-441a-8663-93facde0794f</uuid>
+      <name>MSCI World (DR) UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>LU1781541179</isin>
+      <tickerSymbol>LCUW.DE</tickerSymbol>
+      <wkn>LYX0YD</wkn>
+      <feed>YAHOO-ADJUSTEDCLOSE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>32243ebd-8735-47bc-9b88-325f7596b52a</uuid>
+      <name>MSCI China UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>LU1841731745</isin>
+      <tickerSymbol>L4K3.DE</tickerSymbol>
+      <wkn>LYX0YW</wkn>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>2c57f3af-49d7-40e7-9bed-5f2d096ee87d</uuid>
+      <name>MSCI USA Dividend IQ UCITS</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>IE00BKM4H312</isin>
+      <tickerSymbol>QDVD.DE</tickerSymbol>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>851c5e45-381a-4eca-99a8-82bff6ade408</uuid>
+      <name>Berkshire Hathaway Inc.</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>US0846707026</isin>
+      <tickerSymbol>BRYN.F</tickerSymbol>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>cccc717c-2986-4a74-a7e2-4e8479e7738c</uuid>
+      <name>eBay Inc.</name>
+      <currencyCode>EUR</currencyCode>
+      <tickerSymbol>EBA.DE</tickerSymbol>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>true</isRetired>
+    </security>
+    <security>
+      <uuid>9188b784-6aaa-4ae8-8492-6322eb13130a</uuid>
+      <name>Xtrackers MSCI World UCITS ETF 1C</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <tickerSymbol>XDWD.DE</tickerSymbol>
+      <feed>YAHOO-ADJUSTEDCLOSE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>true</isRetired>
+    </security>
+    <security>
+      <uuid>59c14549-15d6-4cba-b4b7-46be1414bebc</uuid>
+      <name>Deutsche Post AG</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>DE0005552004</isin>
+      <tickerSymbol>DPW.DE</tickerSymbol>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>03f89334-c739-4015-b830-42390da20faa</uuid>
+      <name>V.F. Corp.</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>US9182041080</isin>
+      <tickerSymbol>VFP.DE</tickerSymbol>
+      <feed>FINNHUB-CANDLE</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>3f0815b6-3de3-4b37-9a2f-b74072f7772f</uuid>
+      <name>MSCI World Information Technology</name>
+      <currencyCode>EUR</currencyCode>
+      <isin>IE00BJ5JNY98</isin>
+      <prices/>
+      <attributes>
+        <map/>
+      </attributes>
+      <events/>
+      <isRetired>false</isRetired>
+    </security>
+    <security>
+      <uuid>9644432e-b989-4e80-9b0b-97ac66790f3c</uuid>
+      <name>EM Dividend</name>
+      <currencyCode>EUR</currencyCode>
+      <note>note</note>
+      <isin>IE00B652H904</isin>
+      <tickerSymbol>EUNY.DE</tickerSymbol>
+      <wkn>A1JNZ9</wkn>
+      <feed>YAHOO</feed>
+      <attributes>
+        <map/>
+      </attributes>
+      <isRetired>false</isRetired>
+    </security>
+  </securities>
+  <watchlists/>
+  <consumerPriceIndeces/>
+  <accounts>
+    <account>
+      <uuid>f9e4b20c-4558-4ca9-ba15-7fde19e44a78</uuid>
+      <name>Portfolio</name>
+      <currencyCode>EUR</currencyCode>
+      <isRetired>false</isRetired>
+      <transactions>
+        <account-transaction>
+          <date>2017-02-18T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1975</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>36000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="348"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-03-25T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1238</amount>
+          <security reference="../../../../../securities/security[5]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="219"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-04-15T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2096</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>95000000</shares>
+          <note>note</note>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-05-20T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2104</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>36000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="371"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-06-24T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1238</amount>
+          <security reference="../../../../../securities/security[5]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="218"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-07-15T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>4930</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>95000000</shares>
+          <note>note</note>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-08-19T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2120</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>36000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="374"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-08-26T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>8361</amount>
+          <security reference="../../../../../securities/security[12]"/>
+          <shares>80000000</shares>
+          <note>note</note>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-09-26T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1273</amount>
+          <security reference="../../../../../securities/security[5]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="225"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-10-15T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2457</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>95000000</shares>
+          <note>note</note>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-11-18T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2129</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>36000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="376"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2017-09-27T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1262</amount>
+          <security reference="../../../../../securities/security[5]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="223"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-01-15T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1936</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>95000000</shares>
+          <note>note</note>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-02-17T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2167</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>36000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="382"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-03-25T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1418</amount>
+          <security reference="../../../../../securities/security[5]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="250"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-04-14T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1095</amount>
+          <security reference="../../../../../securities/security[7]"/>
+          <shares>29877200</shares>
+          <note>note</note>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-04-15T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1683</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>95000000</shares>
+          <note>note</note>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-05-18T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>3406</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>53000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="601"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-06-24T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>50</amount>
+          <security reference="../../../../../securities/security[21]"/>
+          <shares>23000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="10"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-06-25T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1360</amount>
+          <security reference="../../../../../securities/security[5]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="TAX">
+              <amount currency="EUR" amount="240"/>
+            </unit>
+          </units>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+        <account-transaction>
+          <date>2019-06-26T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2369</amount>
+          <security reference="../../../../../securities/security[7]"/>
+          <shares>65969700</shares>
+          <note>note</note>
+          <type>DIVIDENDS</type>
+        </account-transaction>
+      </transactions>
+    </account>
+  </accounts>
+  <portfolios>
+    <portfolio>
+      <uuid>56b26669-97ec-4465-8e16-e893e88287d0</uuid>
+      <name>Portfolio</name>
+      <isRetired>false</isRetired>
+      <referenceAccount reference="../../../accounts/account"/>
+      <transactions>
+        <portfolio-transaction>
+          <date>2017-01-25T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>497980</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>36000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-01-28T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>440497</amount>
+          <security reference="../../../../../securities/security[4]"/>
+          <shares>3000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-01-28T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>248956</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>95000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="71"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="15"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-01-28T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>497094</amount>
+          <security reference="../../../../../securities/security[9]"/>
+          <shares>119000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="71"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="17"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-01-28T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>483150</amount>
+          <security reference="../../../../../securities/security[10]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-01-28T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>494076</amount>
+          <security reference="../../../../../securities/security[12]"/>
+          <shares>80000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="71"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="17"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-02-04T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>183985</amount>
+          <security reference="../../../../../securities/security[5]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-02-04T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>192620</amount>
+          <security reference="../../../../../securities/security[11]"/>
+          <shares>13000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-04-08T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>208445</amount>
+          <security reference="../../../../../securities/security[8]"/>
+          <shares>40000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="71"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="14"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-09-19T20:48</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>6571</amount>
+          <security reference="../../../../../securities/security"/>
+          <shares>1000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="390"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="250"/>
+            </unit>
+            <unit type="FEE">
+              <amount currency="EUR" amount="290"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-09-20T09:46</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>466044</amount>
+          <security reference="../../../../../securities/security[2]"/>
+          <shares>200000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="390"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2017-09-30T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>377760</amount>
+          <security reference="../../../../../securities/security[14]"/>
+          <shares>200000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-01-06T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>50049</amount>
+          <security reference="../../../../../securities/security[7]"/>
+          <shares>9628300</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="49"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-01-27T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>237200</amount>
+          <security reference="../../../../../securities/security[8]"/>
+          <shares>40000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_OUTBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-02-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>50049</amount>
+          <security reference="../../../../../securities/security[7]"/>
+          <shares>9632100</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="49"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-03-03T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>310480</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>12000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-03-04T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>546820</amount>
+          <security reference="../../../../../securities/security[13]"/>
+          <shares>550000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-03-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>50049</amount>
+          <security reference="../../../../../securities/security[7]"/>
+          <shares>10616800</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="49"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-03-26T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>117225</amount>
+          <security reference="../../../../../securities/security[3]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-03-26T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>102316</amount>
+          <security reference="../../../../../securities/security[13]"/>
+          <shares>120000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="2500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-04-06T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>50049</amount>
+          <security reference="../../../../../securities/security[7]"/>
+          <shares>12716200</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="49"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-04-28T11:41</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>100552</amount>
+          <security reference="../../../../../securities/security[15]"/>
+          <shares>33000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-04-28T11:52</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>87200</amount>
+          <security reference="../../../../../securities/security[16]"/>
+          <shares>5000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-04-30T13:54</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>17050</amount>
+          <security reference="../../../../../securities/security[20]"/>
+          <shares>3000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-04-30T14:01</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>2827</amount>
+          <security reference="../../../../../securities/security[19]"/>
+          <shares>1000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-05-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>50049</amount>
+          <security reference="../../../../../securities/security[7]"/>
+          <shares>12093400</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="49"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-05-07T19:52</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>101250</amount>
+          <security reference="../../../../../securities/security[15]"/>
+          <shares>34000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-05-11T11:24</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>89337</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>41000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-05-11T11:26</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>9635</amount>
+          <security reference="../../../../../securities/security[21]"/>
+          <shares>18000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-05-14T14:44</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1120</amount>
+          <security reference="../../../../../securities/security[21]"/>
+          <shares>2000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-06-04T10:46</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>201297</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>86000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-06-04T13:57</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>1720</amount>
+          <security reference="../../../../../securities/security[21]"/>
+          <shares>3000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-06-05T00:00</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>50049</amount>
+          <security reference="../../../../../securities/security[7]"/>
+          <shares>11282900</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="49"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-06-24T16:34</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>58080</amount>
+          <security reference="../../../../../securities/security[15]"/>
+          <shares>20000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-06-26T14:42</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>56350</amount>
+          <security reference="../../../../../securities/security[6]"/>
+          <shares>25000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+        <portfolio-transaction>
+          <date>2019-06-30T15:40</date>
+          <currencyCode>EUR</currencyCode>
+          <amount>87264</amount>
+          <security reference="../../../../../securities/security[22]"/>
+          <shares>57000000</shares>
+          <note>note</note>
+          <units>
+            <unit type="FEE">
+              <amount currency="EUR" amount="500"/>
+            </unit>
+          </units>
+          <type>DELIVERY_INBOUND</type>
+        </portfolio-transaction>
+      </transactions>
+    </portfolio>
+  </portfolios>
+  <plans/>
+  <taxonomies>
+    <taxonomy>
+      <id>5f73a119-1e24-4524-bf73-a9e9d95f7727</id>
+      <name>Type of Security</name>
+      <dimensions class="java.util.Arrays$ArrayList">
+        <a class="string-array">
+          <string>Type of Security</string>
+        </a>
+      </dimensions>
+      <root>
+        <id>00b416ee-909d-4aff-8fc5-f30c42a6885e</id>
+        <name>Type of Security</name>
+        <color>#aaf097</color>
+        <children>
+          <classification>
+            <id>d97ad5eb-36fc-4711-a708-8c779ac00878</id>
+            <name>Stock</name>
+            <color>#0000ff</color>
+            <parent reference="../../.."/>
+            <children/>
+            <assignments>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[11]"/>
+                <weight>10000</weight>
+                <rank>0</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[10]"/>
+                <weight>10000</weight>
+                <rank>1</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[4]"/>
+                <weight>10000</weight>
+                <rank>2</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[3]"/>
+                <weight>10000</weight>
+                <rank>3</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[16]"/>
+                <weight>10000</weight>
+                <rank>4</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[5]"/>
+                <weight>10000</weight>
+                <rank>5</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[17]"/>
+                <weight>10000</weight>
+                <rank>6</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[19]"/>
+                <weight>10000</weight>
+                <rank>7</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[20]"/>
+                <weight>10000</weight>
+                <rank>8</rank>
+              </assignment>
+            </assignments>
+            <weight>10000</weight>
+            <rank>0</rank>
+          </classification>
+          <classification>
+            <id>d24bdf6d-511f-480c-985d-5d0b916019ae</id>
+            <name>Equity Fund</name>
+            <color>#ffff00</color>
+            <parent reference="../../.."/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>1</rank>
+          </classification>
+          <classification>
+            <id>42a4b182-1a0f-404d-87de-9f2c9e3f39db</id>
+            <name>Exchange Traded Fund</name>
+            <color>#ff0000</color>
+            <parent reference="../../.."/>
+            <children/>
+            <assignments>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[8]"/>
+                <weight>10000</weight>
+                <rank>0</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[12]"/>
+                <weight>10000</weight>
+                <rank>1</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[6]"/>
+                <weight>10000</weight>
+                <rank>2</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[15]"/>
+                <weight>10000</weight>
+                <rank>3</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security"/>
+                <weight>10000</weight>
+                <rank>4</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[14]"/>
+                <weight>10000</weight>
+                <rank>5</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[13]"/>
+                <weight>10000</weight>
+                <rank>6</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[7]"/>
+                <weight>10000</weight>
+                <rank>7</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[2]"/>
+                <weight>10000</weight>
+                <rank>8</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[9]"/>
+                <weight>10000</weight>
+                <rank>9</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[18]"/>
+                <weight>10000</weight>
+                <rank>10</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[21]"/>
+                <weight>10000</weight>
+                <rank>11</rank>
+              </assignment>
+              <assignment>
+                <investmentVehicle class="security" reference="../../../../../../../../securities/security[22]"/>
+                <weight>10000</weight>
+                <rank>12</rank>
+              </assignment>
+            </assignments>
+            <weight>10000</weight>
+            <rank>2</rank>
+          </classification>
+          <classification>
+            <id>30120a2e-ee32-4f88-821a-7f074596e398</id>
+            <name>Bond</name>
+            <color>#80ff80</color>
+            <parent reference="../../.."/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>4</rank>
+          </classification>
+          <classification>
+            <id>e5f2e0c4-126c-48f0-adaf-020a3cf52c43</id>
+            <name>Stock Option</name>
+            <color>#cfd18f</color>
+            <parent reference="../../.."/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>5</rank>
+          </classification>
+          <classification>
+            <id>d0d8abd5-0f70-4b70-87a0-c35f23055180</id>
+            <name>Index</name>
+            <color>#9082dd</color>
+            <parent reference="../../.."/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>6</rank>
+          </classification>
+          <classification>
+            <id>9d18266b-6031-417a-a918-560ea4c7fde9</id>
+            <name>Currency</name>
+            <color>#ff8000</color>
+            <parent reference="../../.."/>
+            <children/>
+            <assignments/>
+            <weight>10000</weight>
+            <rank>7</rank>
+          </classification>
+        </children>
+        <assignments/>
+        <weight>10000</weight>
+        <rank>0</rank>
+      </root>
+    </taxonomy>
+  </taxonomies>
+  <dashboards>
+    <dashboard name="Dashboard">
+      <configuration>
+        <entry>
+          <string>REPORTING_PERIOD</string>
+          <string>L1Y0</string>
+        </entry>
+      </configuration>
+      <columns>
+        <column>
+          <weight>1</weight>
+          <widgets>
+            <widget type="HEADING">
+              <label>Key Indicators</label>
+              <configuration/>
+            </widget>
+            <widget type="ABSOLUTE_CHANGE">
+              <label>Absolute Change</label>
+              <configuration/>
+            </widget>
+            <widget type="TTWROR">
+              <label>True Time-Weighted Rate of Return</label>
+              <configuration/>
+            </widget>
+            <widget type="IRR">
+              <label>Internal Rate of Return (IRR)</label>
+              <configuration/>
+            </widget>
+            <widget type="DELTA">
+              <label>Delta (for reporting period)</label>
+              <configuration/>
+            </widget>
+            <widget type="HEADING">
+              <label>Last Day</label>
+              <configuration/>
+            </widget>
+            <widget type="TTWROR">
+              <label>True Time-Weighted Rate of Return</label>
+              <configuration>
+                <entry>
+                  <string>REPORTING_PERIOD</string>
+                  <string>T1</string>
+                </entry>
+              </configuration>
+            </widget>
+            <widget type="ABSOLUTE_CHANGE">
+              <label>Absolute Change</label>
+              <configuration>
+                <entry>
+                  <string>REPORTING_PERIOD</string>
+                  <string>T1</string>
+                </entry>
+              </configuration>
+            </widget>
+          </widgets>
+        </column>
+        <column>
+          <weight>1</weight>
+          <widgets>
+            <widget type="HEADING">
+              <label>Risk Indicators</label>
+              <configuration/>
+            </widget>
+            <widget type="MAXDRAWDOWN">
+              <label>Maximum Drawdown</label>
+              <configuration/>
+            </widget>
+            <widget type="MAXDRAWDOWNDURATION">
+              <label>Max Drawdown Duration</label>
+              <configuration/>
+            </widget>
+            <widget type="VOLATILITY">
+              <label>Volatility</label>
+              <configuration/>
+            </widget>
+            <widget type="SEMIVOLATILITY">
+              <label>Semi-Volatility</label>
+              <configuration/>
+            </widget>
+          </widgets>
+        </column>
+        <column>
+          <weight>1</weight>
+          <widgets>
+            <widget type="HEADING">
+              <label>Calculation</label>
+              <configuration/>
+            </widget>
+            <widget type="CALCULATION">
+              <label>Performance Calculation</label>
+              <configuration/>
+            </widget>
+            <widget type="ASSET_CHART">
+              <label>Asset Chart</label>
+              <configuration/>
+            </widget>
+            <widget type="VERTICAL_SPACEER">
+              <label>Vertical Spacer</label>
+              <configuration/>
+            </widget>
+            <widget type="CHART">
+              <label>Performance Chart</label>
+              <configuration/>
+            </widget>
+            <widget type="VERTICAL_SPACEER">
+              <label>Vertical Spacer</label>
+              <configuration/>
+            </widget>
+            <widget type="HEATMAP">
+              <label>Monthly returns in a heat map</label>
+              <configuration/>
+            </widget>
+            <widget type="VERTICAL_SPACEER">
+              <label>Vertical Spacer</label>
+              <configuration/>
+            </widget>
+            <widget type="HEATMAP_EARNINGS">
+              <label>Monthly earnings</label>
+              <configuration/>
+            </widget>
+          </widgets>
+        </column>
+      </columns>
+    </dashboard>
+  </dashboards>
+  <properties/>
+  <settings>
+    <bookmarks>
+      <bookmark>
+        <label>Yahoo Finance</label>
+        <pattern>http://de.finance.yahoo.com/q?s={tickerSymbol}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>OnVista</label>
+        <pattern>http://www.onvista.de/suche.html?SEARCH_VALUE={isin}&amp;SELECTED_TOOL=ALL_TOOLS</pattern>
+      </bookmark>
+      <bookmark>
+        <label>Finanzen.net</label>
+        <pattern>http://www.finanzen.net/suchergebnis.asp?frmAktiensucheTextfeld={isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>Ariva.de Fundamentaldaten</label>
+        <pattern>http://www.ariva.de/{isin}/bilanz-guv</pattern>
+      </bookmark>
+      <bookmark>
+        <label>justETF</label>
+        <pattern>https://www.justetf.com/de/etf-profile.html?isin={isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>fondsweb.de</label>
+        <pattern>http://www.fondsweb.de/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>Morningstar.de</label>
+        <pattern>http://www.morningstar.de/de/funds/SecuritySearchResults.aspx?type=ALL&amp;search={isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>extraETF.com</label>
+        <pattern>https://extraetf.com/etf-profile/{isin}</pattern>
+      </bookmark>
+      <bookmark>
+        <label>Alle Aktien Kennzahlen</label>
+        <pattern>https://www.alleaktien.de/quantitativ/{isin}/</pattern>
+      </bookmark>
+    </bookmarks>
+    <attributeTypes>
+      <attribute-type>
+        <id>ter</id>
+        <name>Total Expense Ratio (TER)</name>
+        <columnLabel>TER</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.Double</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$PercentConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>aum</id>
+        <name>Assets under Management</name>
+        <columnLabel>AUM</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.Long</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$AmountPlainConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>vendor</id>
+        <name>Vendor</name>
+        <columnLabel>Vendor</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.String</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$StringConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>acquisitionFee</id>
+        <name>Acquisition Fee (percentaged)</name>
+        <columnLabel>Acquisition Fee</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.Double</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$PercentConverter</converterClass>
+      </attribute-type>
+      <attribute-type>
+        <id>managementFee</id>
+        <name>Management Fee (percentaged)</name>
+        <columnLabel>Management Fee</columnLabel>
+        <target>name.abuchen.portfolio.model.Security</target>
+        <type>java.lang.Double</type>
+        <converterClass>name.abuchen.portfolio.model.AttributeType$PercentConverter</converterClass>
+      </attribute-type>
+    </attributeTypes>
+    <configurationSets>
+      <entry>
+        <string>StatementOfAssetsHistoryView-PICKER</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>abe5d7d0-6416-40a4-a081-45d6d6ed75b9</uuid>
+              <name>Standard</name>
+              <data>Client-totals;#000000;SOLID;false,Client-transferals;#808080;SOLID;false</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>ReturnsVolatilityChartView-PICKER</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>cbb72a4f-8155-4311-b460-f0696bee1d5b</uuid>
+              <name>Standard</name>
+              <data>Client-totals;#000000;SOLID;false,[b]Security9188b784-6aaa-4ae8-8492-6322eb13130a;#91e279;SOLID;false</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>name.abuchen.portfolio.ui.views.SecuritiesPerformanceView</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>c6e4fbc7-f3be-49eb-bc48-f853cfe477c1</uuid>
+              <name>Standard</name>
+              <data>shares=80;name=1024$300;pv=119;pp=111;quote=75;mv=75;d%=66;sumdiv=71;twror=80;izf=80;delta%=80;delta=80;vola=80;attribute$ter=59;</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>PerformanceChartView-PICKER</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>a6bdf579-cf93-4cc6-beb3-cc471c7807bf</uuid>
+              <name>Standard</name>
+              <data>Client-totals;#ff2f92;SOLID;false,[b]Security9188b784-6aaa-4ae8-8492-6322eb13130a;#919191;SOLID;false</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>name.abuchen.portfolio.ui.views.SecuritiesTable</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>38884834-8b88-489f-8222-d8813ea4a05d</uuid>
+              <name>Standard</name>
+              <data>0=1024$400;note=174;1=100;2=80;7=80;4=60;5=93;9=80;10=127;q-date-first-historic=123;</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+      <entry>
+        <string>name.abuchen.portfolio.ui.views.StatementOfAssetsViewer</string>
+        <config-set>
+          <configurations>
+            <config>
+              <uuid>64b6bb1b-7fba-47e1-bceb-564792f5f645</uuid>
+              <name>Standard</name>
+              <data>0=80;2=80;1=128$139;note=134;4=60;5=82;6=64;9=111;delta=L3Y0|102;sumdiv=L1Y0|91;</data>
+            </config>
+          </configurations>
+        </config-set>
+      </entry>
+    </configurationSets>
+  </settings>
+</client>

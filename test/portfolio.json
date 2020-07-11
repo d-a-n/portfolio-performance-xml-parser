@@ -1,0 +1,892 @@
+{
+  "securities": [
+    {
+      "uuid": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "name": "MSCI World UCITS ETF USD",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "IE00B4L5Y983",
+      "tickerSymbol": "EUNL.DE",
+      "wkn": "A0RPWH"
+    },
+    {
+      "uuid": "330256c1-b815-43cc-a8bd-4c1576ddb9b6",
+      "name": "MSCI ACWI UCITS",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "IE00BGHQ0G80",
+      "tickerSymbol": "XMAW.DE",
+      "wkn": "A1W8SB"
+    },
+    {
+      "uuid": "68ce536f-797b-4104-a020-1ca9195454e8",
+      "name": "APPLE INC.",
+      "currencyCode": "EUR",
+      "isin": "US0378331005",
+      "tickerSymbol": "APC.DE",
+      "wkn": "865985"
+    },
+    {
+      "uuid": "752e83c3-0784-4dcd-b18a-79880724be6c",
+      "name": "AMAZON.COM INC.",
+      "currencyCode": "EUR",
+      "isin": "US0231351067",
+      "tickerSymbol": "AMZ.DE",
+      "wkn": "906866"
+    },
+    {
+      "uuid": "a08e121e-fe63-400a-b097-d13880a11e8a",
+      "name": "BLACKROCK INC.",
+      "currencyCode": "EUR",
+      "isin": "US09247X1019",
+      "tickerSymbol": "BLQA.DE",
+      "wkn": "928193"
+    },
+    {
+      "uuid": "f7497098-f651-4b55-9a3d-bd7c7240bd9b",
+      "name": "STOXX Global Select Dividend 100 UCITS",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "DE000A0F5UH1",
+      "tickerSymbol": "ISPA.DE",
+      "wkn": "A0F5UH"
+    },
+    {
+      "uuid": "f49b5ddf-3a85-4208-b711-67f75e2d53f5",
+      "name": "FTSE All-World High Dividend Yield UCITS",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "IE00B8GKDB10",
+      "tickerSymbol": "VGWD.DE",
+      "wkn": "A1T8FV"
+    },
+    {
+      "uuid": "7cc22d77-808d-44e7-9ae7-3a4685753c03",
+      "name": "STOXX Global Artificial Intelligence UCITS",
+      "currencyCode": "EUR",
+      "isin": "LU1861132840",
+      "tickerSymbol": "GOAI.DE",
+      "wkn": "A2JSC9"
+    },
+    {
+      "uuid": "8d0ae1df-b77a-4661-a8d4-b5a58cbd43ad",
+      "name": "MSCI Emerging Markets UCITS",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "IE00BTJRMP35",
+      "tickerSymbol": "XMME.DE",
+      "wkn": "A12GVR"
+    },
+    {
+      "uuid": "e6adfc6c-1174-4f84-a9e7-6f0c8c468b49",
+      "name": "ALPHABET INC.",
+      "currencyCode": "EUR",
+      "isin": "US02079K3059",
+      "tickerSymbol": "ABEA.DE",
+      "wkn": "A14Y6F"
+    },
+    {
+      "uuid": "67ccaac4-e6c1-4324-8a50-7e236c4d6a02",
+      "name": "ALIBABA GROUP HOLDING LTD.",
+      "currencyCode": "EUR",
+      "isin": "US01609W1027",
+      "tickerSymbol": "AHLA.DE",
+      "wkn": "A117ME"
+    },
+    {
+      "uuid": "309e96bf-a078-40df-b0d6-5c94e9feb6ac",
+      "name": "MSCI USA UCITS",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "LU0392495700",
+      "tickerSymbol": "X020.F",
+      "wkn": "ETF120"
+    },
+    {
+      "uuid": "ec6e48ae-1766-441a-8663-93facde0794f",
+      "name": "MSCI World (DR) UCITS",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "LU1781541179",
+      "tickerSymbol": "LCUW.DE",
+      "wkn": "LYX0YD"
+    },
+    {
+      "uuid": "32243ebd-8735-47bc-9b88-325f7596b52a",
+      "name": "MSCI China UCITS",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "LU1841731745",
+      "tickerSymbol": "L4K3.DE",
+      "wkn": "LYX0YW"
+    },
+    {
+      "uuid": "2c57f3af-49d7-40e7-9bed-5f2d096ee87d",
+      "name": "MSCI USA Dividend IQ UCITS",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "IE00BKM4H312",
+      "tickerSymbol": "QDVD.DE"
+    },
+    {
+      "uuid": "851c5e45-381a-4eca-99a8-82bff6ade408",
+      "name": "Berkshire Hathaway Inc.",
+      "currencyCode": "EUR",
+      "isin": "US0846707026",
+      "tickerSymbol": "BRYN.F"
+    },
+    {
+      "uuid": "cccc717c-2986-4a74-a7e2-4e8479e7738c",
+      "name": "eBay Inc.",
+      "currencyCode": "EUR",
+      "tickerSymbol": "EBA.DE"
+    },
+    {
+      "uuid": "9188b784-6aaa-4ae8-8492-6322eb13130a",
+      "name": "Xtrackers MSCI World UCITS ETF 1C",
+      "currencyCode": "EUR",
+      "note": "note",
+      "tickerSymbol": "XDWD.DE"
+    },
+    {
+      "uuid": "59c14549-15d6-4cba-b4b7-46be1414bebc",
+      "name": "Deutsche Post AG",
+      "currencyCode": "EUR",
+      "isin": "DE0005552004",
+      "tickerSymbol": "DPW.DE"
+    },
+    {
+      "uuid": "03f89334-c739-4015-b830-42390da20faa",
+      "name": "V.F. Corp.",
+      "currencyCode": "EUR",
+      "isin": "US9182041080",
+      "tickerSymbol": "VFP.DE"
+    },
+    {
+      "uuid": "3f0815b6-3de3-4b37-9a2f-b74072f7772f",
+      "name": "MSCI World Information Technology",
+      "currencyCode": "EUR",
+      "isin": "IE00BJ5JNY98"
+    },
+    {
+      "uuid": "9644432e-b989-4e80-9b0b-97ac66790f3c",
+      "name": "EM Dividend",
+      "currencyCode": "EUR",
+      "note": "note",
+      "isin": "IE00B652H904",
+      "tickerSymbol": "EUNY.DE",
+      "wkn": "A1JNZ9"
+    }
+  ],
+  "transactions": [
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 3.48
+      },
+      "shares": 36,
+      "amount": 19.75,
+      "date": "2017-02-17T23:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 2.19
+      },
+      "shares": 5,
+      "amount": 12.38,
+      "date": "2017-03-24T23:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "shares": 95,
+      "amount": 20.96,
+      "date": "2017-04-14T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 3.71
+      },
+      "shares": 36,
+      "amount": 21.04,
+      "date": "2017-05-19T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 2.18
+      },
+      "shares": 5,
+      "amount": 12.38,
+      "date": "2017-06-23T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "shares": 95,
+      "amount": 49.3,
+      "date": "2017-07-14T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 3.74
+      },
+      "shares": 36,
+      "amount": 21.2,
+      "date": "2017-08-18T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "shares": 80,
+      "amount": 83.61,
+      "date": "2017-08-25T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 2.25
+      },
+      "shares": 5,
+      "amount": 12.73,
+      "date": "2017-09-25T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "shares": 95,
+      "amount": 24.57,
+      "date": "2017-10-14T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 3.76
+      },
+      "shares": 36,
+      "amount": 21.29,
+      "date": "2017-11-17T23:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 2.23
+      },
+      "shares": 5,
+      "amount": 12.62,
+      "date": "2017-09-26T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "shares": 95,
+      "amount": 19.36,
+      "date": "2019-01-14T23:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 3.82
+      },
+      "shares": 36,
+      "amount": 21.67,
+      "date": "2019-02-16T23:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 2.5
+      },
+      "shares": 5,
+      "amount": 14.18,
+      "date": "2019-03-24T23:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "shares": 29.8772,
+      "amount": 10.95,
+      "date": "2019-04-13T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "shares": 95,
+      "amount": 16.83,
+      "date": "2019-04-14T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 6.01
+      },
+      "shares": 53,
+      "amount": 34.06,
+      "date": "2019-05-17T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 0.1
+      },
+      "shares": 23,
+      "amount": 0.5,
+      "date": "2019-06-23T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "tax": {
+        "currency": "EUR",
+        "amount": 2.4
+      },
+      "shares": 5,
+      "amount": 13.6,
+      "date": "2019-06-24T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "shares": 65.9697,
+      "amount": 23.69,
+      "date": "2019-06-25T22:00:00.000Z",
+      "type": "DIVIDENDS",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 36,
+      "amount": 4979.8,
+      "date": "2017-01-24T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 3,
+      "amount": 4404.97,
+      "date": "2017-01-27T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 95,
+      "amount": 2489.56,
+      "date": "2017-01-27T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 119,
+      "amount": 4970.94,
+      "date": "2017-01-27T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 5,
+      "amount": 4831.5,
+      "date": "2017-01-27T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 80,
+      "amount": 4940.76,
+      "date": "2017-01-27T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 5,
+      "amount": 1839.85,
+      "date": "2017-02-03T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 13,
+      "amount": 1926.2,
+      "date": "2017-02-03T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 40,
+      "amount": 2084.45,
+      "date": "2017-04-07T22:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 3.9
+      },
+      "shares": 1,
+      "amount": 65.71,
+      "date": "2017-09-19T18:48:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 3.9
+      },
+      "shares": 200,
+      "amount": 4660.44,
+      "date": "2017-09-20T07:46:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 200,
+      "amount": 3777.6,
+      "date": "2017-09-29T22:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 0.49
+      },
+      "shares": 9.6283,
+      "amount": 500.49,
+      "date": "2019-01-05T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 40,
+      "amount": 2372,
+      "date": "2019-01-26T23:00:00.000Z",
+      "type": "DELIVERY_OUTBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 0.49
+      },
+      "shares": 9.6321,
+      "amount": 500.49,
+      "date": "2019-02-04T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 12,
+      "amount": 3104.8,
+      "date": "2019-03-02T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 550,
+      "amount": 5468.2,
+      "date": "2019-03-03T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 0.49
+      },
+      "shares": 10.6168,
+      "amount": 500.49,
+      "date": "2019-03-04T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 5,
+      "amount": 1172.25,
+      "date": "2019-03-25T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 25
+      },
+      "shares": 120,
+      "amount": 1023.16,
+      "date": "2019-03-25T23:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 0.49
+      },
+      "shares": 12.7162,
+      "amount": 500.49,
+      "date": "2019-04-05T22:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 33,
+      "amount": 1005.52,
+      "date": "2019-04-28T09:41:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 5,
+      "amount": 872,
+      "date": "2019-04-28T09:52:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 3,
+      "amount": 170.5,
+      "date": "2019-04-30T11:54:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 1,
+      "amount": 28.27,
+      "date": "2019-04-30T12:01:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 0.49
+      },
+      "shares": 12.0934,
+      "amount": 500.49,
+      "date": "2019-05-04T22:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 34,
+      "amount": 1012.5,
+      "date": "2019-05-07T17:52:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 41,
+      "amount": 893.37,
+      "date": "2019-05-11T09:24:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 18,
+      "amount": 96.35,
+      "date": "2019-05-11T09:26:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 2,
+      "amount": 11.2,
+      "date": "2019-05-14T12:44:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 86,
+      "amount": 2012.97,
+      "date": "2019-06-04T08:46:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 3,
+      "amount": 17.2,
+      "date": "2019-06-04T11:57:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 0.49
+      },
+      "shares": 11.2829,
+      "amount": 500.49,
+      "date": "2019-06-04T22:00:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 20,
+      "amount": 580.8,
+      "date": "2019-06-24T14:34:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 25,
+      "amount": 563.5,
+      "date": "2019-06-26T12:42:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    },
+    {
+      "security": "40089f48-4cce-4e2e-b541-827037706ec9",
+      "fee": {
+        "currency": "EUR",
+        "amount": 5
+      },
+      "shares": 57,
+      "amount": 872.64,
+      "date": "2019-06-30T13:40:00.000Z",
+      "type": "DELIVERY_INBOUND",
+      "currencyCode": "EUR",
+      "note": "note"
+    }
+  ]
+}

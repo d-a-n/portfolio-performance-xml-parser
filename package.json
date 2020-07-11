@@ -1,0 +1,36 @@
+{
+  "name": "portfolio-performance-xml-parser",
+  "version": "1.0.0",
+  "description": "Parses Portfolio Performance XMLs and returns a JSON representation",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "pretest": "npm run lint",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js test",
+    "lint": "eslint . --cache --fix"
+  },
+  "author": "d-a-n <gh@imake.io>",
+  "license": "ISC",
+  "dependencies": {
+    "xmldom": "^0.3.0",
+    "xpath": "0.0.27"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jest": "^23.18.0",
+    "husky": "^4.2.5",
+    "jest": "^26.1.0",
+    "lint-staged": "^10.2.11",
+    "prettier": "^2.0.5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run audit && lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,css,md}": "prettier --write"
+  }
+}
