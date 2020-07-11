@@ -15,4 +15,6 @@ jobs:
       - name: Audit
         run: npm audit
       - name: Run tests
+        env:
+          TZ: Europe/Berlin
         run: npm test
