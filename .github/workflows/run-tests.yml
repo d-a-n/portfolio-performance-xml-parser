@@ -13,6 +13,6 @@ jobs:
       - name: Install modules
         run: npm ci
       - name: Audit
-        run: npm run audit
+        run: npm audit
       - name: Run tests
         run: npm test
