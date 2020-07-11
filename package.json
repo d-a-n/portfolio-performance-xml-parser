@@ -1,5 +1,5 @@
 {
-  "name": "portfolio-performance-xml-parser",
+  "name": "@d-a-n/portfolio-performance-xml-parser",
   "version": "1.0.0",
   "description": "Parses Portfolio Performance XMLs and returns a JSON representation",
   "main": "src/index.js",
@@ -32,5 +32,8 @@
   },
   "lint-staged": {
     "*.{js,css,md}": "prettier --write"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }

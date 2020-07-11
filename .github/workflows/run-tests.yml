@@ -9,8 +9,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: 14
+          node-version: 12
       - name: Install modules
         run: npm ci
+      - name: Audit
+        run: npm run audit
       - name: Run tests
         run: npm test
