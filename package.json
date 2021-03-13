@@ -12,7 +12,7 @@
   "author": "d-a-n <gh@imake.io>",
   "license": "ISC",
   "dependencies": {
-    "xmldom": "^0.3.0",
+    "xmldom": "^0.5.0",
     "xpath": "0.0.27"
   },
   "devDependencies": {
